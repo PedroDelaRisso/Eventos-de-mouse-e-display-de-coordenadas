@@ -1,1 +1,2 @@
 Código simples em C++ com SFML, que usa eventos de mouse para manipular a posição de um elemento gráfico em uma janela vazia e, utilizando a classe de texto, mostra na tela as coordenadas X e Y desse objeto.
+O projeto utiliza um Makefile para compilar. O arquivo `run.bat` executa dois comandos: `make` e `./main.exe`; ele compila e roda o programa. Foi adicionado no arquivo `.vscode/tasks.json` uma task personalizada para rodar o run.bat sem que seja necessário sempre utilizar o terminal no Visual Studio Code.
