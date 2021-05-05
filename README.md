@@ -1,0 +1,1 @@
+Código simples em C++ com SFML, que usa eventos de mouse para manipular a posição de um elemento gráfico em uma janela vazia e, utilizando a classe de texto, mostra na tela as coordenadas X e Y desse objeto.
